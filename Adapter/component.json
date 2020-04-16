@@ -1,0 +1,6 @@
+{
+  "name" : "Adapter",
+  "dependencies" : [
+    "mesopelagique\/expect"
+  ]
+}
