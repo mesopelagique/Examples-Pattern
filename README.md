@@ -26,6 +26,6 @@ Try some [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern
 
 ## Contributes
 
-Feel free to propose project url which demonstrate the use of one the [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern).
+Feel free to propose project url which demonstrate the use of [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern).
 
 You could also put sample projets in this repository by Pull Request. (name of the folder must be the name of the design pattern)
