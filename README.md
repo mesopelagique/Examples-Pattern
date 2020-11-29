@@ -22,4 +22,4 @@ Try some [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern
 
 ### Null object pattern
 
-- [Null Coaliescing] (https://github.com/mesopelagique/NullCoaliescing)
+- [Null Coaliescing](https://github.com/mesopelagique/NullCoaliescing)
