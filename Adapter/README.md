@@ -26,7 +26,7 @@ display($legacy) // -> ✅ Success
 
 ### test plan
 
-- While creating rectangle defined by corner 
+- While creating rectangle defined by corner
   - it should not display
   - but with adapter it should display
 

@@ -1,0 +1,6 @@
+{
+  "name" : "Singleton",
+  "dependencies" : [
+    "mesopelagique\/expect"
+  ]
+}
