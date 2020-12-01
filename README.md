@@ -6,23 +6,27 @@ Try some [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern
 
 ### Singleton
 
-[Singleton](Singleton)
+📦 [Singleton](Singleton) demo base
 
 ## Structural
 
-### Adapter
+### [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern)
 
-[Adapter](Adapter)
+📦 [Adapter](Adapter) demo base
+
+### [Marker](https://en.wikipedia.org/wiki/Marker_interface_pattern)
+
+🔴 No [interface](https://en.wikipedia.org/wiki/Interface_(computing)) and [reflection](https://en.wikipedia.org/wiki/Reflective_programming) today for 4D
 
 ## Behavioral patterns
 
 ### Iterator
 
-[Iterable project](https://github.com/mesopelagique/iterable)
+📦 [Iterable](https://github.com/mesopelagique/iterable) component
 
 ### Null object pattern
 
-- [Null Coaliescing](https://github.com/mesopelagique/NullCoaliescing)
+📦 [Null Coaliescing](https://github.com/mesopelagique/NullCoaliescing) component
 
 ## Contributes
 
