@@ -16,7 +16,7 @@ Class constructor
 	singletonize(This)
 ```
 
-[`singletonize`](Projects/Sources/Methods) will:
+[`singletonize`](Project/Sources/Methods/singletonize.4dm) will:
 
 - register the first instance into `cs.MyClass.instance`
 - replace the function `cs.MyClass.new()` to return `cs.MyClass.instance`
