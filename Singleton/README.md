@@ -31,6 +31,16 @@ Use (cs.MyClass.instance)
 End use
 ```
 
+## Other things that do not work
+
+### edit cs
+
+```
+cs["MyClass"]:=cs["MaClass"].new()
+```
+
+cs is not editable, and maybe not shared accross process (maybe one instance by process?)
+
 ## Test
 
 ### test plan
