@@ -52,8 +52,8 @@ cs is not editable, and maybe not shared accross process (maybe one instance by 
 
 ### execute test
 
-test are execute at start up, launching `main` method
-but you need to install [the BDD compoent expect](https://github.com/mesopelagique/expect) to this base or your 4d
+tests are executed at start up, `main` method is launched
+but you need to install [the BDD component expect](https://github.com/mesopelagique/expect) to this base or your 4d
 
 the simpliest way for me is to use [kaluza-cli](https://github.com/mesopelagique/kaluza-cli) a macOS command line tool which use the defined `components.json` to install the dependencies (like nodejs, pip, ... do)
 
