@@ -49,3 +49,11 @@ cs is not editable, and maybe not shared accross process (maybe one instance by 
 - if init instance must not be null and have passed value when initializing at first
 - if we re-init instance must not be null and have passed value when initializing at first
 - if we edit the singleton, value of instance must be changed
+
+### execute test
+
+test are execute at start up, launching `main` method
+but you need to install [the BDD compoent expect](https://github.com/mesopelagique/expect) to this base or your 4d
+
+the simpliest way for me is to use [kaluza-cli](https://github.com/mesopelagique/kaluza-cli) a macOS command line tool which use the defined `components.json` to install the dependencies (like nodejs, pip, ... do)
+
