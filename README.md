@@ -16,7 +16,9 @@ Try some [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern
 
 ### [Marker](https://en.wikipedia.org/wiki/Marker_interface_pattern)
 
-🔴 No [interface](https://en.wikipedia.org/wiki/Interface_(computing)) and [reflection](https://en.wikipedia.org/wiki/Reflective_programming) today for 4D
+🔴 No [interface](https://en.wikipedia.org/wiki/Interface_(computing)) and [reflection](https://en.wikipedia.org/wiki/Reflective_programming) today for 4D.
+
+But you could add meta-data to a class, ie. add some values (string, bool, ...) to the class, and according to this values define a contract or behaviour.
 
 ## Behavioral patterns
 
